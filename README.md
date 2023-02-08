@@ -1,1 +1,1 @@
-My read me
+shell basic repository
